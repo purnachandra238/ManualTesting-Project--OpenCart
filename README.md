@@ -1,1 +1,2 @@
-# ManualTesting-Project--OpenCart
+# Manual Testing-Project
+Functional Testing Project - Ecommerce
